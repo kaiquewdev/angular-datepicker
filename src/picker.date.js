@@ -1223,9 +1223,9 @@ DatePicker.defaults = (function( prefix ) {
         weekdaysShort: [ 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat' ],
 
         // Today and clear
-        today: 'Today',
-        clear: 'Clear',
-        close: 'Close',
+        today: 'Hoje',
+        clear: 'Limpar',
+        close: 'Fechar',
 
         // The format to show on the `input` element
         format: 'd mmmm, yyyy',
